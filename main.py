@@ -6,7 +6,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error, mean_squared_error
 import numpy as np
 
-DATA_PATH = "data/student_data.csv"
+DATA_PATH = "student_data.csv"
 data = pd.read_csv(DATA_PATH)
 st.title("Student Performance Predictor")
 st.write(
