@@ -1,5 +1,8 @@
 # Student Performance Predictor (Streamlit)
 
+## 🚀 Live Demo
+👉 [Try the app here](https://student-performance-perdictor-ud6j869dxtxulzmp6rywgq.streamlit.app/)
+
 Simple Streamlit web app that predicts a student's exam result using a linear regression model trained on study habits, attendance, and homework completion data.
 
 ## Project Structure
